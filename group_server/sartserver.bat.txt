@@ -1,0 +1,2 @@
+set classpath=%classpath%;./server;
+java ser
